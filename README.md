@@ -1,7 +1,5 @@
 # Thomas Mannfred Carlsson
 
-Deep-tech founder and software architect. 25+ years building and shipping computer vision, XR, and real-time systems under real-world constraints.
-
 This GitHub hosts **small, focused public artifacts** from side research and infrastructure work: datasets, measurement tooling, and reference configurations. My professional work lives in private repositories or production systems.
 
 I also have long-running **IRC and network-ops roots**. Much of what you see here exists because it's useful to that world: practical measurement, abuse visibility, and operational tooling. Data from these projects feeds into the [DroneBL](https://dronebl.org/) and [EFnetRBL](https://rbl.efnetrbl.org/) real-time blocklists.
